@@ -1,0 +1,18 @@
+sudo apt update
+sudo apt install git
+mkdir work
+cd work
+git clone https://github.com/mixgrill/sparkhandson.git
+cd sparkhandson
+https://spark.apache.org/downloads.html
+Download spark
+
+and 
+
+tar xvzf spark?????.tgz
+mv spark-3.5.5-bin-hadoop3 ~/spark
+
+cp ~/.bashrc ~/bashrc.bak
+cat src/resources/bashrc.sample >>~/.bashrc
+source ~/.bashrc
+spark-shell --driver-memory 4g
