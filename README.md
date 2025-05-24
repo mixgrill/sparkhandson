@@ -1,2 +1,7 @@
 # sparkhandson
-webarenaのインスタンスでspark hands ONをサクッとやる
+WebArena Indigo のインスタンスでspark hands ONをサクッとやる
+## はじめに
+### WebArena Indigoとは
+WebArenaはNTTグループのサーバやさん。
+Indigoは時間貸しのVPS仮想サーバのサービス。
+スポットで使いたくなったらWebのコンパネでポチポチするとサクっと仮想サーバー作って試したりできます。値段はかなり安く抑えられるとおもいます。注意点としてはインスタンスは停止していても料金がかかるので、いらなくなったらちゃんと削除しましょう。
